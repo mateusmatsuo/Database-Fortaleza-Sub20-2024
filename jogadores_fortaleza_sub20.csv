@@ -1,0 +1,59 @@
+nome,idade,nacionalidade,posicao,pe_dominante,altura_cm,peso_kg,partidas_jogadas,minutos_jogados,gols_marcados,gols_sofridos,assistencias
+Luiz Carlos Ramires Barbosa Júnior,21,Brasil,goleiro,Destro,189,76,2,180,0,1,0
+Marcelo Chaud Catto,20,Brasil,goleiro,Destro,190,89,0,0,0,0,0
+Eduardo Salvador Correia,19,Brasil,goleiro,Destro,,,0,0,0,0,0
+Murilo D\'Angelo Palomares,21,Brasil,goleiro,Destro,185,,19,1700,0,17,0
+Carlos Manoel Ferreira Brito,22,Brasil,goleiro,Destro,,,0,0,0,0,0
+Khendran Andryel Tomaz Santos,20,Brasil,goleiro,Destro,,,0,0,0,0,0
+Guilherme Moura da Fonseca,20,Brasil,defensor (zagueiro),Destro,,,18,1183,0,0,0
+Guilherme Cristovam dos Santos,19,Brasil,defensor (zagueiro),Destro,188,78,1,10,0,0,0
+Bruno Henrique Moreira da Silva,21,Brasil,defensor (zagueiro),Destro,,,4,161,0,0,0
+Micaell Torres da Silva Antunes,18,Brasil,defensor,N/A,,,0,0,0,0,0
+Denzel Washington Brito dos Santos,21,Brasil,defensor (lateral direito),Destro,179,75,0,0,0,0,0
+Gustavo da Silva Nobre,20,Brasil,defensor (lateral direito),Destro,175,75,16,404,1,0,0
+Geilson de Souza Alves,21,Brasil,defensor (zagueiro),N/A,,,0,0,0,0,0
+Samuel Estevam Brunhara,20,Brasil,defensor (zagueiro),Destro,180,75,9,566,0,0,0
+Riquelme De Sousa Gomes Inacio,21,Brasil,defensor (lateral esquerdo),Canhoto,,,0,0,0,0,0
+João Henrique Correia Silva,22,Brasil,defensor (zagueiro) / meia (volante),Destro,178,75,0,0,0,0,0
+Kaiky Carvalho dos Santos,21,Brasil,defensor (lateral direito),Destro,180,74,18,1504,0,0,1
+Pedro Alves Mendonça,20,Brasil,defensor (lateral direito) / meia (volante),Destro,182,68,1,80,0,0,0
+Gustavo Teixeira Lopes da Conceição,21,Brasil,defensor (zagueiro),Canhoto,188,,19,1515,0,0,0
+João Vitor Führ,19,Brasil,defensor (zagueiro),Destro,190,,0,0,0,0,0
+Tony Lucas Graciano da Rocha,21,Brasil,defensor (zagueiro) / meia (volante),Destro,187,85,18,1533,0,0,0
+Juliano Lima da Silva Junior,21,Brasil,defensor (lateral esquerdo),Canhoto,,,3,134,0,0,0
+Michael Quarcoo,20,Gana,defensor (lateral esquerdo) / meia (meia esquerda),Destro,178,72,16,973,2,0,1
+Arthur Barbosa Moura de Oliveira,19,Brasil,defensor (lateral esquerdo),Canhoto,,,18,1040,1,0,0
+Michel Cavalcante Fonseca da Silva,19,Brasil,meia (volante),Destro,170,64,14,303,0,0,0
+Gabriel Martins Severino Moreira Mares,21,Brasil,meia (meia ofensivo),Canhoto,,,6,98,0,0,1
+Gabriel de Sousa Santos da Cunha,19,Brasil,meia,Canhoto,,,9,163,0,0,0
+Bruno César Pereira Silva,20,Brasil,meia (volante) (meia central),Destro,177,73,20,1677,0,0,1
+Luiz Otavio Maria,21,Brasil,meia (meia central) (meia ofensivo),Ambidestro,170,60,19,1443,3,0,1
+João Vitor Gomes Lucio da Silva,22,Brasil,meia (volante) / meia (meia central),Destro,180,71,0,0,0,0,0
+Lucas Emanoel de Abreu dos Reis,19,Brasil,meia,Canhoto,,,0,0,0,0,0
+Pedro Rylner Abreu de Sousa,18,Brasil,meia,N/A,,,0,0,0,0,0
+Gustavo de Sousa Marques,18,Brasil,meia,Destro,,,0,0,0,0,0
+Kauã Alves Teixeira,18,Brasil,meia,N/A,,,0,0,0,0,0
+Alexsandro Amorim de Freitas Filho,20,Brasil,meia (meia ofensivo),Destro,177,70,6,450,1,0,1
+Caio Dantas Batista de Maria,22,Brasil,meia (meia ofensivo),N/A,,,0,0,0,0,0
+Breno Alan Monteiro Chaves,21,Brasil,meia (meia ofensivo) / atacante (2º atacante),Ambidestro,178,,18,833,1,0,1
+Brayan Pereira Rosa,20,Brasil,meia,Destro,,,0,0,0,0,0
+Vinícius Gabriel Vianna da Silva,22,Brasil,meia (volante),N/A,180,75,0,0,0,0,0
+Kauan Rodrigues da Silva,20,Brasil,meia (meia ofensivo),Destro,,,0,0,0,0,0
+Jairo Joel Reyes Castillo,19,Equador,meia (volante),Destro,177,74,0,0,0,0,0
+Fabricio Dias Afonso,20,Brasil,meia (volante) (meia central),Destro,176,76,20,1664,1,0,2
+Lucca Prior Pimenta,21,Brasil,meia (meia ofensivo) / atacante (ponta direita),Canhoto,173,70,11,636,3,0,0
+Pedro Garcia Carvalho,18,Brasil,atacante,N/A,,,0,0,0,0,0
+Daniel Cauê Troiano Farias,20,Brasil,atacante,Destro,,,11,170,2,0,1
+Felipe Gabriel Silva Mian,19,Brasil,atacante (meia ofensivo) / atacante (ponta esquerda),Destro,,,0,0,0,0,0
+Marcos Paulo da Silva Correia,18,Brasil,atacante,N/A,,,0,0,0,0,0
+Juan Fidelis Carvalho,18,Brasil,atacante,Destro,,,0,0,0,0,0
+Caio Wesley da Silva Paz,18,Brasil,atacante (centroavante) (2º atacante),Destro,181,77,0,0,0,0,0
+Landerson Costa Araujo,18,Brasil,atacante,Destro,,,15,969,2,0,3
+Ryan Luka Cordeiro de Souza,22,Brasil,atacante (centroavante),Destro,186,74,0,0,0,0,0
+Kervin Mario Andrade Navarro,20,Venezuela,atacante (ponta direita) / atacante (ponta esquerda),Destro,163,68,0,0,0,0,0
+Paulo Roberto da Silva Souza,20,Brasil,atacante (centroavante),Destro,,,0,0,0,0,0
+Iarley Gilberto de Barros Leal,22,Brasil,atacante (2º atacante) (centroavante),Destro,174,70,0,0,0,0,0
+Jhonnata Souza Borges,21,Brasil,atacante (ponta direita),Canhoto,176,,12,205,0,0,0
+Kauê Canela Arroula,21,Brasil,atacante (centroavante),Destro,180,81,19,1542,11,0,1
+Robson Anizio da Silva,21,Brasil,atacante (centroavante) / atacante (ponta direita),Destro,188,70,15,251,0,0,0
+Carlos Miguel Ortiz Arantes Silva,20,Brasil,atacante (2º atacante) / atacante (ponta esquerda),Destro,173,77,0,0,0,0,0
